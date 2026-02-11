@@ -1,1 +1,0 @@
-# amazon-dq-pipeline
